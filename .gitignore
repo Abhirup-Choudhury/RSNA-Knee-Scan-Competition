@@ -1,1 +1,4 @@
 .venv/
+data/test_data/*
+data/train_data/*
+data/*.csv
